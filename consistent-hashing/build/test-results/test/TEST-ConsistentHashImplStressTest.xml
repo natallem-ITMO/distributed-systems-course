@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConsistentHashImplStressTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-11T13:03:15" hostname="DESKTOP-RSH7BNU" time="1.195">
+  <properties/>
+  <testcase name="stress()" classname="ConsistentHashImplStressTest" time="1.195"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
